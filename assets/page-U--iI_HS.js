@@ -1,0 +1,1 @@
+import{_ as o}from"./default.vue_vue_type_script_setup_true_lang-D6aDo_f0.js";import{d as a,o as t,c as n,w as r,a as s}from"./app-B2t42i0g.js";const l=a({__name:"page",setup(m){return(p,e)=>(t(),n(o,null,{default:r(()=>e[0]||(e[0]=[s("main",null,"Welcome home - choose from the top navbar",-1)])),_:1}))}});export{l as default};
